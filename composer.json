@@ -1,0 +1,15 @@
+{
+  "name"        : "php-20/php-20",
+  "type"        : "project",
+  "description" : "A new PHP Project for day 20 class",
+  "keywords"    : [],
+  "license"     : "",
+  "require"     : {},
+  "require-dev" : {},
+  "autoload"    : {
+    "psr-4"     : {
+      "App\\" : "app//"
+    }
+  }
+
+}
